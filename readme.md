@@ -1,4 +1,4 @@
-# MentorPath 🎯
+# MentorPath MERN STACK APPLICATION
 
 > **Connecting African students and graduates with verified professionals who guide them to their dream career — step by step.**
 
